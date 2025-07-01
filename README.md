@@ -6,26 +6,29 @@
 
 - 💻 I’m currently contributing to `gittuf`, an OpenSSF project
 - 🌱 Learning Go, Kubernetes, Git internals, and cryptography
+- ⭐ Achieved **5⭐ in SQL** on [HackerRank](https://www.hackerrank.com/profile/sylanmohammed)
+- 💡 Built multiple **frontend projects** using HTML, CSS, JavaScript
 - 🎯 Actively applying for LFX Mentorship and internships
-- 💡 Love working on CLI tools, automation, and developer security
 - 💬 Ask me about Git, Go, or building secure workflows
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-### 📊 LeetCode & GFG Profiles
+### 📊 Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sylan_55/)
-
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/syedmdsylaniee20/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/sylanmohammed)
 
 ---
 
